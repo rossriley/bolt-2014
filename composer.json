@@ -1,0 +1,16 @@
+{
+    "name": "bolt/theme-2014",
+    "description": "This is the default theme for Bolt. It is built with Foundation 5 and Sass, but you can use it as-is.",
+    "type": "bolt-theme",
+    "keywords": ["theme","bolt","2014","foundation"],
+    "require": {
+        "bolt/bolt": ">1.6,<3.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bob den Otter",
+            "email": "bob@twokings.nl"
+        }
+    ]
+}
